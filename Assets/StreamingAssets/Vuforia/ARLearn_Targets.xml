@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="WaterMoleculeTarget" size="0.150000 0.085742" />
+    <ImageTarget name="PendulumTarget" size="0.150000 0.131752" />
+    <ImageTarget name="Lungs_Target" size="10.000000 8.357142" />
+    <ImageTarget name="BrainImageTarget" size="0.150000 0.093750" />
+    <ImageTarget name="Heart_Target" size="0.150000 0.106986" />
+  </Tracking>
+</QCARConfig>

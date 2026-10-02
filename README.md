@@ -153,43 +153,31 @@ The application tracks learning activity such as:
 
 ---
 
-# 📱 App Screenshots
+# 📱 App Screenshot 
 
-## 🏠 Home Screen
+<p align="center">
+  <img src="Docs/Screenshots/home.jpg" width="280">
+  <img src="Docs/Screenshots/Scanner.jpg" width="280">
+</p>
 
-![EduAR 3D Home](Docs/Screenshots/home.jpg)
+<p align="center">
+  <img src="Docs/Screenshots/HumanHeart.jpg" width="280">
+  <img src="Docs/Screenshots/HumanBrain.jpg" width="280">
+</p>
 
-## 🔍 Universal Scanner
+<p align="center">
+  <img src="Docs/Screenshots/HumanLungs.jpg" width="280">
+  <img src="Docs/Screenshots/Pendulum.jpg" width="280">
+</p>
 
-![EduAR 3D Scanner](Docs/Screenshots/Scanner.jpg)
+<p align="center">
+  <img src="Docs/Screenshots/Water.jpg" width="280">
+  <img src="Docs/Screenshots/Quiz.jpg" width="280">
+</p>
 
-## 🫀 Human Heart AR
-
-![Human Heart AR](Docs/Screenshots/HumanHeart.jpg)
-
-## 🧠 Human Brain AR
-
-![Human Brain AR](Docs/Screenshots/HumanBrain.jpg)
-
-## 🫁 Human Lungs AR
-
-![Human Lungs AR](Docs/Screenshots/HumanLungs.jpg)
-
-## ⚙️ Simple Pendulum AR
-
-![Simple Pendulum AR](Docs/Screenshots/Pendulum.jpg)
-
-## 💧 Water Molecule AR
-
-![Water Molecule AR](Docs/Screenshots/Water.jpg)
-
-## 📝 Interactive Quiz
-
-![EduAR 3D Quiz](Docs/Screenshots/Quiz.jpg)
-
-## 📊 Dashboard
-
-![EduAR 3D Dashboard](Docs/Screenshots/Dashboard.jpg)
+<p align="center">
+  <img src="Docs/Screenshots/Dashboard.jpg" width="280">
+</p>
 
 ---
 
@@ -311,7 +299,7 @@ TRACK PROGRESS
 
 ### Kazi Saqlain Mihad
 
-**CSE @ Green University of Bangladesh**
+**Game & AR Developer | Software Developer | CSE Graduate**
 
 GitHub: [@mihadkazi1](https://github.com/mihadkazi1)
 
